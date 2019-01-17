@@ -1,4 +1,4 @@
-# CodeBucket
+  # CodeBucket
 The collection of interesting repository in Computer Vision Area.
 
 *Awesome Human Pose Estimation* - A collection of awesome resources in Human Pose estimation. [:file_folder:](https://github.com/cbsudux/awesome-human-pose-estimation)
@@ -15,9 +15,9 @@ The collection of interesting repository in Computer Vision Area.
 
 *tf-pose-estimation* - Deep Pose Estimation implemented using Tensorflow with Custom Architectures for fast inference. [:file_folder:](https://github.com/ildoonet/tf-pose-estimation)
 
-*Computer Vision Video Dataset* [URL](http://www.cvpapers.com/datasets.html)
+*Computer Vision Video Dataset* [:file_folder:](http://www.cvpapers.com/datasets.html)
 
-*Coarse Gaze Estimation in Visual Surveillance* By Active Vision Laboratory, by University of Oxford [URL](http://www.robots.ox.ac.uk/~lav/Research/Projects/2009bbenfold_headpose/project.html)
+*Coarse Gaze Estimation in Visual Surveillance* By Active Vision Laboratory, by University of Oxford [:file_folder:](http://www.robots.ox.ac.uk/~lav/Research/Projects/2009bbenfold_headpose/project.html)
 
 *Building a real-time object recognition app with TensorFlow* [Article](https://towardsdatascience.com/building-a-real-time-object-recognition-app-with-tensorflow-and-opencv-b7a2b4ebdc32), [:file_folder:](https://github.com/datitran/object_detector_app)
 
@@ -67,10 +67,37 @@ The collection of interesting repository in Computer Vision Area.
 
 *Face recognition with OpenCV, Python, and deep learning* [:file_folder:](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/)
 
-*Easy installation of dlib python bindings in windows* [GitHub](https://github.com/charlielito/install-dlib-python-windows)
+*Easy installation of dlib python bindings in windows* [:file_folder:](https://github.com/charlielito/install-dlib-python-windows)
 
-**
+*The world's simplest facial recognition api for Python and the command line* [:file_folder:](https://github.com/ageitgey/face_recognition)
 
+*Detection of Head Nods using OpenCV in Python* [:file_folder:](https://gist.github.com/smeschke/e59a9f5a40f0b0ed73305d34695d916b)
+
+*Deep Learning Models for Face Detection/Recognition/Alignments, implemented in Tensorflow* [:file_folder:](https://github.com/ildoonet/deepface)
+
+*Head Detector by University of Oxford* [:file_folder:](http://www.robots.ox.ac.uk/~vgg/software/headmview/#BMVC11)
+
+*Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks* [:file_folder:](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
+
+*Head & Shoulder Detection* [:file_folder:](https://github.com/SuckChen/head-shoulder-detection)
+
+*Face Databse* [:file_folder:](https://github.com/HCIILAB)
+
+*Light-Head RCNN and One Novel Object Detector* [:file_folder:](https://github.com/HiKapok/X-Detector)
+
+*Context-aware CNNs for person head detection - ICCV2015* [:file_folder:](https://github.com/aosokin/cnn_head_detection)
+
+*Deep Learning Head Pose Estimation using PyTorch* [:file_folder:](https://github.com/natanielruiz/deep-head-pose)
+
+*Face Detection Docker Solution Using Faster R-CNN* [:file_folder:](https://github.com/natanielruiz/dockerface)
+
+*FCHD-Fully-Convolutional-Head-Detector* [:file_folder:](https://github.com/aditya-vora/FCHD-Fully-Convolutional-Head-Detector)
+
+*Head Detection using YoLo* [:file_folder:](https://github.com/pranoyr/head-detection-using-yolo)
+
+*S³FD: Single Shot Scale-invariant Face Detector* [:file_folder:](https://github.com/yxlijun/S3FD.pytorch)
+
+*OpenCV Deep Neural Networks (dnn module)* [:file_folder:](https://docs.opencv.org/3.4.2/d2/d58/tutorial_table_of_content_dnn.html)
 
 # Books
 *Programming Computer Vision with Python: Tools and algorithms for analyzing images* by Jan Erik Solem
