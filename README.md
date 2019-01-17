@@ -37,7 +37,7 @@ The collection of interesting repository in Computer Vision Area.
 
 *Pedestrian detection using the TensorFlow Object Detection API. Includes multi GPU parallel processing inference* [CODE](https://github.com/thatbrguy/Pedestrian-Detection)
 
-*Simple Face Recognition* [CODE]https://github.com/ageitgey/face_recognition
+*Simple Face Recognition* [CODE](https://github.com/ageitgey/face_recognition)
 
 *OpenCV Object Tracking* [CODE](https://www.pyimagesearch.com/2018/07/30/opencv-object-tracking/)
 
@@ -55,7 +55,7 @@ The collection of interesting repository in Computer Vision Area.
 ** [CODE](https://github.com/LukashenkoEvgeniy/People-Counter)
 ** [CODE](https://github.com/search?l=Python&o=desc&q=people+count&s=&type=Repositories)
 ** [CODE](https://github.com/Nikhil-Kasukurthi/Counting-people-video)
-** [CODE](https://github.com/prabal27/CalIt2-Building-People-Counts-using-LSTM
+** [CODE](https://github.com/prabal27/CalIt2-Building-People-Counts-using-LSTM)
 
 
 # Books
