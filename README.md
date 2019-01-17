@@ -15,7 +15,7 @@ The collection of interesting repository in Computer Vision Area.
 
 *tf-pose-estimation* - Deep Pose Estimation implemented using Tensorflow with Custom Architectures for fast inference. [CODE](https://github.com/ildoonet/tf-pose-estimation)
 
-*Computer Video Dataset* [URL](http://www.cvpapers.com/datasets.html)
+*Computer Vision Video Dataset* [URL](http://www.cvpapers.com/datasets.html)
 
 *Coarse Gaze Estimation in Visual Surveillance* By Active Vision Laboratory, by University of Oxford [URL](http://www.robots.ox.ac.uk/~lav/Research/Projects/2009bbenfold_headpose/project.html)
 
@@ -45,18 +45,25 @@ The collection of interesting repository in Computer Vision Area.
 
 *OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation* [CODE](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
-** [CODE](https://www.pyimagesearch.com/2015/11/09/pedestrian-detection-opencv/)
-** [CODE](https://www.pyimagesearch.com/2015/02/16/faster-non-maximum-suppression-python/)
-** [CODE](https://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/)
-** [CODE](https://medium.com/@madhawavidanapathirana/real-time-human-detection-in-computer-vision-part-2-c7eda27115c6)
-** [CODE](https://towardsdatascience.com/real-time-and-video-processing-object-detection-using-tensorflow-opencv-and-docker-2be1694726e5)
-** [CODE](https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/)
-** [CODE](https://ubidots.com/blog/people-counting-with-opencv-python-and-ubidots/)
-** [CODE](https://github.com/LukashenkoEvgeniy/People-Counter)
-** [CODE](https://github.com/search?l=Python&o=desc&q=people+count&s=&type=Repositories)
-** [CODE](https://github.com/Nikhil-Kasukurthi/Counting-people-video)
-** [CODE](https://github.com/prabal27/CalIt2-Building-People-Counts-using-LSTM)
+*Simple Pedestrian Detection using OpenCV* [CODE](https://www.pyimagesearch.com/2015/11/09/pedestrian-detection-opencv/)
 
+*Faster Non Maximum Suppression (NMS) Algorithm in Python* [CODE](https://www.pyimagesearch.com/2015/02/16/faster-non-maximum-suppression-python/)
+
+*Non Maximum Suppression (NMS) Algorithm in Python* [CODE](https://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/)
+
+*Real-time Human Detection in Computer Vision — Part 1 & 2* [Part1](https://medium.com/@madhawavidanapathirana/https-medium-com-madhawavidanapathirana-real-time-human-detection-in-computer-vision-part-1-2acb851f4e55)[Part2](https://medium.com/@madhawavidanapathirana/real-time-human-detection-in-computer-vision-part-2-c7eda27115c6)
+
+*YoLo v3*[Article](https://medium.com/@madhawavidanapathirana/not-just-another-yolo-v3-for-python-79da6c3af082)
+
+*People Counting using OpenCV* [CODE](https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/)
+
+*People Counting with OpenCV, Python & Ubidots* [CODE](https://ubidots.com/blog/people-counting-with-opencv-python-and-ubidots/)
+
+*People Crossing Hall/Doors Counting* [CODE](https://github.com/LukashenkoEvgeniy/People-Counter)
+
+*People Counting in Video* [CODE](https://github.com/Nikhil-Kasukurthi/Counting-people-video)
+
+*People Counting using LSTM* [CODE](https://github.com/prabal27/CalIt2-Building-People-Counts-using-LSTM)
 
 # Books
 *Programming Computer Vision with Python: Tools and algorithms for analyzing images* by Jan Erik Solem
