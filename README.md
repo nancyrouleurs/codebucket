@@ -1,4 +1,4 @@
-  # CodeBucket
+# CodeBucket
 The collection of interesting repository in Computer Vision Area.
 
 *Awesome Human Pose Estimation* - A collection of awesome resources in Human Pose estimation. [:file_folder:](https://github.com/cbsudux/awesome-human-pose-estimation)
@@ -81,7 +81,7 @@ The collection of interesting repository in Computer Vision Area.
 
 *Head & Shoulder Detection* [:file_folder:](https://github.com/SuckChen/head-shoulder-detection)
 
-*Face Databse* [:file_folder:](https://github.com/HCIILAB)
+*Face Database* [:file_folder:](https://github.com/HCIILAB)
 
 *Light-Head RCNN and One Novel Object Detector* [:file_folder:](https://github.com/HiKapok/X-Detector)
 
@@ -98,6 +98,26 @@ The collection of interesting repository in Computer Vision Area.
 *S³FD: Single Shot Scale-invariant Face Detector* [:file_folder:](https://github.com/yxlijun/S3FD.pytorch)
 
 *OpenCV Deep Neural Networks (dnn module)* [:file_folder:](https://docs.opencv.org/3.4.2/d2/d58/tutorial_table_of_content_dnn.html)
+
+*Face detection model zoo* [:file_folder:](https://github.com/the-house-of-black-and-white/hall-of-faces)
+
+*Face detection based on YOLO darknet*  https://github.com/dannyblueliu/YOLO-Face-detection
+
+*Deep learning-based Face detection using the YOLOv3 algorithm* [:file_folder:](https://github.com/sthanhng/yoloface)
+
+*Face Detection and Gender and Age Classification using Keras* https://github.com/abars/YoloKerasFaceDetection
+
+*A Face detector trained on YOLOv2 Darknet framework* https://github.com/azmathmoosa/azFace
+
+*Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3* [Article] https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088
+
+*Web Machine Learning (ML) API polyfill and examples* [:file_folder:](https://github.com/intel/webml-polyfill)
+
+*Selfie Filters Using Facial Landmarks* [:file_folder:](https://github.com/akshaychandra21/Selfie_Filters_OpenCV) [Article](https://towardsdatascience.com/facial-keypoints-detection-deep-learning-737547f73515)
+
+*What’s new in YOLO v3?* [Article](https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b)
+
+*A combination between people tracking and age and gender detection* [:file_folder:](https://github.com/habom2310/People-tracking-with-Age-and-Gender-detection)
 
 # Books
 *Programming Computer Vision with Python: Tools and algorithms for analyzing images* by Jan Erik Solem
